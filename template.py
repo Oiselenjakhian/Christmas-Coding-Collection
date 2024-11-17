@@ -73,4 +73,4 @@ turtle.pencolor(0, 0, 0)
 # Place code here
  
 # End the program
-turtle.done()
+turtle.hideturtle()
